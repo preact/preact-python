@@ -9,7 +9,7 @@ Simple example of calling the [Less Neglect API](http://beta.lessneglect.com/api
       "person[email]": "billy@lessneglect.com",
       "person[uid]": "12345",
       "person[created_at]": 1358108502.033349,
-      "person[properties][is_paying]": true
+      "person[properties][is_paying]": true,
       "event[name]": "registered"
     }
 
