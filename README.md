@@ -38,3 +38,15 @@ Simple example of calling the [Less Neglect API](http://beta.lessneglect.com/api
 ## Requirements
 
  - [requests](http://docs.python-requests.org/en/latest/)
+
+## new wip
+
+person = {
+  "person[name]": "Billy Coover",
+  "person[email]": "billy+1@lessneglect.com",
+  "person[uid]": "test-1",
+  "person[created_at]": 1358108502.033349,
+  "person[properties][is_paying]": true
+}
+
+registered(person)
